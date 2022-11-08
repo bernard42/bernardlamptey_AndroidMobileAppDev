@@ -1,0 +1,40 @@
+1. 
+
+i. Allow users to “go back” easily in one step
+
+For a user’s experience to be delightful and efficient when using a mobile application, the app should have 
+a functionality which should allow the user to go back one step as they use the app. The absence of a back 
+functionality will always force users start over from the home screen, which could result in the lose of any 
+unsaved data and frustration on the side of the user.
+
+
+ii. Match the keyboard with the required text inputs
+
+Another way to ensure that a user’s experience of an app is delightful and efficient is to implement 
+functionalities that provide an appropriate keyboard for either text or numeric entry. This reduces the 
+frustration on the part of the user since they do not have to switch between keyboard layouts. This 
+functionality must be implemented throughout the app rather than only for certain features to ensure 
+consistency. 
+
+
+iii. Provide text labels and visual keys to clarify 22 visual information
+
+Having apps with labelled icons go a long way to enhance user’s experience in a positive way. Labelling icons 
+and other visuals allow for proper interpretation. Unlabeled icons may turn to increase the frustration of the 
+user when they are trying to navigate the app. As such, these apps might end up not being used since they will 
+be deemed inefficient by the user. Icons that are labeled are much more likely to be used. 
+
+
+2. Mobile apps: BK Mobile and Ethiopian Airlines mobile applications
+
+The BK Mobile is an android application owned by Bank of Kigali to enable customers undertake bank transactions
+at the comfort of their homes and at relative ease. The app illustrates all of the above listed principles. The 
+app has labelled icons to allow for efficient navigation. Also, the app authomatically provides a numeric 
+keyboard when inputing one's pin. The app also has a "go back" functionality to allow for one step navigation to 
+the previous page.
+
+Ethiopian Airlines is an android mobile application owned by Ethiopian Airlines to enable customers book flights
+at ease. The app has an implemented "go back" functionality to allow for one step navigation to the previous page.
+The app authomatically provides a numeric keyboard functionality when inputing one's membership ID during 
+registration without having to switch between keyboard formats. The app also has labelled icons which allows for
+easy navigation whiles reducing user frustration.
