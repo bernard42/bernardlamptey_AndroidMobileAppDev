@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="readmsg">You have a task called</string>
+
+    <string name="addTask">Add Task</string>
+    <string name="taskName">ToDo Name</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="delete">Delete task?</string>
+    <string name="deleteTask">Task Deleted</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="toDoAdded">Task added successfully</string>
+    <string name="chooseDate">Choose Date</string>
+    <string name="title">ToDo List</string>
+</resources>
