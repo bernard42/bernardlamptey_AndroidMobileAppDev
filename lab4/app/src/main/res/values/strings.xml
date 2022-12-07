@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab4</string>
+    <string name="bird">A bird</string>
+    <string name="butterfly">A butterfly</string>
+    <string name="flower">A flower</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="navigation">Navigation</string>
+    <string name="homeIcon">Home</string>
+</resources>
